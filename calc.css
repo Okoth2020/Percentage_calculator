@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: blueviolet;
+}
+.my_heading{
+    background-color: burlywood;
+    text-align: center;
+}
+.container{
+    text-align: center;
+    width: 800px;
+    height: 500px;
+    margin: auto;
+    font-size: larger;
+    font-weight: bold;
+    background-color: chocolate;
+}
+.container input{
+    margin: 20px 0px;
+    width: 250px;
+    height: 35px;
+}
+#myform{
+    margin: auto;
+}
+
+
